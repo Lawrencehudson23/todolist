@@ -1,0 +1,8 @@
+.draw-line{
+	text-decoration:line-through;
+	color:gray;
+}
+
+.todo{
+	cursor:pointer;
+}
